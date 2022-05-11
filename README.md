@@ -25,15 +25,17 @@ The aim is to identify patterns which indicate if a person is likely to default,
 
 ## Conclusions
 - Possiblity of Loan charge off will be more 
-    *  When Applicant have annual income in range of 30K-40K, 
-    * applied for Loan amount in between 5.5K -10K, 
-    * with heigher interest of 14-20%, 
-    * having a employment history of either 1 or 10 years, 
-    * and chose to repay installment in 100-300 installments, 
-    * with loan issue in the month as Nov Or dec
-    * as purpose of debt_considation or credit card payment
-    * as well applicant is not verified
-    * and having  7-8 active accounts
+    * If an applicant belongs to Grade B, C or D and loan amount 5.5k to 10k, then chances of full-payment is very low.
+    * Loan amount from 5.5K to 10K and interest rate is 14 to 20 %, these stats are strong indicators of defaulters.
+    * One of the simplest analysis says that if the loan is taken for the duration of 36 months, overall count of defaulters are more as compared to those applicants taking loan for 60 months.
+    * Another very important point that needs to be dig into is Employment durations is either 0 to 1 year or 10 years and above and the loan amount is between 30K to 40K, the loan may go into debt. Account of Business.
+    * Any applicant with 7 or more active bank accounts along with annual income ranging 30K to 40K and loan amount between 5.5K to 10K, risk is high.
+    * A very important contributor in deciding if the loan should be given or not is, if the application is falls in the category of “Not-Verified”.
+    * Avoid giving loan to those applicants who has requested for loan amount around 5.5 K to 10K and also requested for EMI length of 100 to 300.
+    * Applications should be triple checked (to be careful), if income range is 30K to 40K and Loan amount is 5500 to 10,000 and interest rage is 14 % to 20%, request might be risky.
+    * The risk is high if the purpose of the loan is to pay another debt. 
+    * Applications coming in for loan section, specially in the month of Dec. or November and loan amount between 5.5 K to 10K, this might be an indicator that requester is asking loan for fun/luxury – as Nov. and Dec. are holiday season.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
